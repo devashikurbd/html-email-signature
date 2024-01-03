@@ -1,0 +1,46 @@
+Time Stamps:
+Intro
+HTML - Software Intro
+HTML 01 - Introduction
+HTML 02 - Breaking & Horizontal Row
+HTML 03 - HTML Comments
+HTML 04 - Centering Elements
+HTML 05 - Image Path, Hosting, Width, Height & Alternative
+HTML 06 - Hyperlink For Web, Mobile & Email
+HTML 07 - Style & Span
+HTML 08 - Table. Table Row, Table Data, Table Nesting
+CSS 01 - Basic CSS
+CSS 02 - Colors & Background Colors
+CSS 03 - Font Family, Google Fonts
+CSS 04 - Font Weight
+CSS 05 - Font Size
+CSS 06 - Text Alignment
+CSS 07 - Letter Spacing
+CSS 08 - Line Height & Spacer
+CSS 09 - Border Width, Border Style, Border Color
+CSS 10 - Border Radius
+CSS 11 - Text Decoration & Display
+CSS 12 - Padding & Centering Items
+Email Signature Design 01 - Requirements For Design
+Email Signature Design 01 - Icon Collecting
+Email Signature Design 01 - Collecting Dummy Info
+Email Signature Design 01 - Preparing Layout With HTML
+Email Signature Design 01 - Applying CSS
+Email Signature Design 01 - Testing Compatibility
+Email Signature Design 02 - Requirements For Design & Table Layout
+Email Signature Design 02 - Preparing HTML Layout
+Email Signature Design 02 - Applying CSS
+Email Signature Design 02 - Testing Compatibility
+Email Signature Design 03 - Understanding Design Layout, Collecting assets
+Email Signature Design 03 - Preparing Responsive HTML Layout
+Email Signature Design 03  - Preparing HTML Design Layout
+Email Signature Design 03 - Applying CSS
+Email Signature Design 03 - Making Design Responsive & Testing In Email On Acid
+Email Signature Design 04 - Preparing HTML Layout
+Email Signature Design 04 - Applying CSS
+Email Signature Design 04 - Making Responsive Design
+Email Signature Design 04 - Testing Compatibility
+Email Signature Design 05 - Preparing Components And Understanding Layout
+Email Signature Design 05 - Design HTML Layout
+Email Signature Design 05 - Applying CSS
+Email Signature Design 05 - Compatibility Testing On Email On Acid
